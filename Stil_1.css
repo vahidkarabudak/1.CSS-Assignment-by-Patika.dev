@@ -1,0 +1,117 @@
+.anasayfa-body{
+    background-color: #c7d36f;
+}
+.sabit-header{
+    text-align: center;
+    font-size: 64px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bold;    
+}
+.sabit-nav{
+    display: flex;
+    justify-content: center;
+}
+.anasayfa-p{
+    text-align: justify;
+    font-size: 16px;
+}
+.anasayfa-image{
+    display: inline-block;
+    width:200px;
+    vertical-align: middle;
+    padding: 10px 50px 10px 50px;
+}
+.anasayfa-image-link{
+    display:inline-block;
+}
+.image-div{
+    text-align: center;
+}
+.yataymenu>li{
+    display: inline;
+    font-size: 32px;
+    padding: 20px;
+}
+strong{
+    color:red;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+em{
+    color:blue;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.futbolcular-body{
+    background-color: #9eb23b;
+}
+.futbolcular-p{
+    color: purple;
+    font-size: 20px;
+}
+.futbolcular-image{
+    width: 200px;
+}
+.futbolcular-section{
+    text-align: center;
+}
+.f-figcap{
+    color:red;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+}
+.takimlar-body{
+    background-color: #fcf9c6;
+}
+.takimlar-p{
+    color: green;
+    font-size: 20px;
+    font-style: oblique;
+}
+.takimlar-image{
+    width: 200px;
+}
+.takimlar-section{
+    text-align: center;
+}
+.t-figcap{
+    color:blue; 
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+}
+.ulke-body{
+    background-color: #e0deca;
+}
+.ulke-p{
+    color: rgb(255,100,0);
+    font-size: 16px;
+}
+.ulke-image{
+    width: 200px;
+}
+.ulke-section{
+    text-align: center;
+}
+.u-figcap{
+    color:red; 
+    font-size: 24px;
+}
+.d-body{
+    background-color: #cdf0fa;
+}
+.d-p{
+    color: rgb(0,0,100);
+    font-size: 20px;
+}
+.d-image{
+    width: 200px;
+}
+.d-section{
+    text-align: center;
+}
+.d-figcap{
+    color: brown; 
+    font-size: 12px;
+}
